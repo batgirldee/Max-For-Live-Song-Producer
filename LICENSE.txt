@@ -1,0 +1,8 @@
+Max for Live Song Producer — made by Delilah Adams
+Open Beta v0.1 Beta 1
+
+Anyone may download, install and use this beta for evaluation and provide feedback. No invitation is required.
+Ownership of the Song Producer software remains with Delilah Adams. This is not an open-source licence. Do not redistribute, sell, relicense or publish the software package, its source or modified copies without the author's permission. Share the official release link instead.
+These software terms do not claim ownership of your lyrics or musical output.
+Third-party dependencies retain their own licences, supplied in node_modules; these terms do not restrict rights granted by those licences. No Ableton, plugin or voice licence is included.
+This is an experimental beta. See docs/KNOWN-LIMITATIONS.md and save test Sets before using generation or editing.
